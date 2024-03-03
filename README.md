@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DIPESH DEULA</h1>
-<h3 align="center">A passionate frontend developer | Tech enthusiast | T shaped Learner per</h3>
+<h3 align="center">A passionate frontend developer | Tech enthusiast | T shaped Learner </h3>
 
 - 🌱 I’m currently learning **asp.net**
 
